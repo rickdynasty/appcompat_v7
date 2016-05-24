@@ -1,0 +1,10 @@
+/.settings
+/bin
+/gen
+/.classpath
+/.project
+/.idea
+/*.iml
+/out
+/local.properties
+/qrom.properties
